@@ -116,7 +116,7 @@ I’m open to:
 ## 📫 Contact
 
 - **GitHub:** [krouyw](https://github.com/krouyw)
-- **LinkedIn:** [Siamion Stsefanovich](https://www.linkedin.com/in/siamion-stsefanovich-00370135a/)
+- **LinkedIn:** [Siamion Stsefanovich](https://www.linkedin.com/in/siamion-stsefanovich/)
 - **Telegram:** [@krouyw](https://t.me/krouyw)
 - **Email:** [krouyw@gmail.com](mailto:krouyw@gmail.com)
 
